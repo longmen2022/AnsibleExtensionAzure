@@ -1,0 +1,1 @@
+<!-- https://github.com/jakewalsh90/Terraform-Azure/blob/main/Ansible-Quickstart/azuredeploy.tf -->
