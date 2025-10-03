@@ -257,7 +257,7 @@ resource "azurerm_virtual_machine_extension" "ansibe-base-setup" {
     {
         "commandToExecute": "bash AnsibleSetup.sh",
         "fileUris": [
-          "https://raw.githubusercontent.com/jakewalsh90/Terraform-Azure/main/Ansible-Quickstart/Ansible/AnsibleSetup.sh"
+          "https://github.com/longmen2022/AnsibleExtensionAzure/blob/main/Ansible/AnsibleSetup.sh"
         ]
     }
 SETTINGS
