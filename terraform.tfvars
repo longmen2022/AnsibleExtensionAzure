@@ -15,7 +15,7 @@ address_prefixes        = ["10.20.1.0/24"]
 network_security_group_name = "nsg-webapp"
 
 # KEY VAULT
-key_vault_name          = "kv-webapp-secrets"
+key_vault_name          = "kv-vmansible01-secrets"
 
 # KEY VAULT SECRET
 key_vault_secret_name   = "vmAdminPassword"
